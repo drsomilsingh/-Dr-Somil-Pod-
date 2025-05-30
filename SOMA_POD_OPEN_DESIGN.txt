@@ -1,0 +1,21 @@
+Open Design Declaration – Dr. Somil Pod
+
+Designer: Dr. Somil Singh
+
+Title: SOMA-POD (Self-regulating Over-G Multi-phase Adaptive Pod)
+
+Purpose:
+To provide a high-survivability, self-contained pilot safety capsule capable of withstanding hypersonic G-forces, atmospheric re-entry, high-energy trauma, and radiation exposure in both aerospace and defense environments. This design is released for non-commercial, humanitarian, or research purposes with the intent to advance human safety and survivability under extreme conditions.
+
+Core Innovations:
+1. Non-Newtonian Fluid Immersion Chamber
+2. Multi-stage G-Triggered Valve System
+3. Integrated Oxygen Cylinder Crumple Seat
+4. Lead Radiation Shield Layer
+5. Smart HUD & Windowless Cockpit
+6. Autonomous Ejection Survival Capability
+7. Dual Pressure-Relief Valves
+
+License: CC BY-NC-SA 4.0  
+Author: Dr. Somil Singh  
+Released: May 30, 2025
